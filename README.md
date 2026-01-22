@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+AI+Engineer;Computer+Vision+%26+Machine+Learning;Cloud+Architect+%7C+Problem+Solver;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUyeHloMnFhbTh6NTc5MXc5azNsYmVlbWc4MTZuMmV0bTQxbjVuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **DeepLabV3 Model for Semantic Segmentation**
@@ -88,7 +92,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TezAryan/TezAryan/55d846f8058b71cfdfdece9ba66ceb527fa765f3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TezAryan/TezAryan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 💼 Featured Projects
