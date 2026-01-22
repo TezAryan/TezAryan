@@ -88,7 +88,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TezAryan/TezAryan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TezAryan/TezAryan/55d846f8058b71cfdfdece9ba66ceb527fa765f3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 💼 Featured Projects
