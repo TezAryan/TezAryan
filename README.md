@@ -13,7 +13,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Deellab Model**
+- 🔭 I’m currently working on **DeeplabV3 Model**
 - ☁️ I’m learning **AWS Cloud Architect**
 - 💬 Ask me about **React, Database, Next.js, and Backend**
 - 🎬 Fun fact: **I watch series!**
